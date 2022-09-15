@@ -149,3 +149,7 @@ body {
 #suggestions button:hover {
   opacity: 1;
 }
+
+#name-creator{
+  font-weight: bold;
+}
